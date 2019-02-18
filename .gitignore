@@ -1,0 +1,4 @@
+backup_banco.sql
+*.txt
+
+O git ignore deixa 'fora' do repositório os arquivos com nome o extensão que eu determinar.
