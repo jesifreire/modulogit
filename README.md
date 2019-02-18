@@ -1,4 +1,4 @@
-Meu Segundo sistema no Git!
+Meu Segundo sistema no Git, alteração 18/02!
 
 Alteração no readme para descrever melhor meu sistema.
 
